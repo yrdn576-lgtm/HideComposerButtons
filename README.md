@@ -8,6 +8,12 @@ Maintained by [@yrdn576-lgtm](https://github.com/yrdn576-lgtm).
 
 The plugin provides context-menu controls for the Gift, GIF, Emoji, Sticker, and Apps composer buttons.
 
+## Screenshots
+
+**Context-menu controls and composer-button visibility**
+
+![HideComposerButtons: examples of hiding and showing Gift, GIF, Emoji, Sticker and Apps buttons](docs/hidecomposerbuttons-preview.jpg)
+
 ## Installation (Vencord source build)
 
 This repository contains **Vencord userplugin source code**. It is not a standalone extension and is not loaded by the standard Vencord Installer.
