@@ -1,5 +1,9 @@
 # HideComposerButtons
 
+## Preview
+
+![HideComposerButtons showing which Discord composer buttons are hidden or visible](docs/hidecomposerbuttons-preview.jpg)
+
 Choose which message-composer buttons are visible in Discord.
 
 Maintained by [@yrdn576-lgtm](https://github.com/yrdn576-lgtm).
@@ -7,12 +11,6 @@ Maintained by [@yrdn576-lgtm](https://github.com/yrdn576-lgtm).
 ## Features
 
 The plugin provides context-menu controls for the Gift, GIF, Emoji, Sticker, and Apps composer buttons.
-
-## Screenshots
-
-**Context-menu controls and composer-button visibility**
-
-![HideComposerButtons: examples of hiding and showing Gift, GIF, Emoji, Sticker and Apps buttons](docs/hidecomposerbuttons-preview.jpg)
 
 ## Installation (Vencord source build)
 
